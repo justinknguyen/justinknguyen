@@ -4,3 +4,5 @@
 
 - M.Eng. in Software Engineering | B.Sc. in Electrical Engineering
 - Currently studying Rust to write firmare for a keyboard I hope to create.
+
+![](https://komarev.com/ghpvc/?username=justinknguyen&color=blue)

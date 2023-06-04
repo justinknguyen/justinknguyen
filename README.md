@@ -15,6 +15,6 @@
 ### Hi, I'm Justin
 
 - M.Eng. in Software Engineering | B.Sc. in Electrical Engineering
-- Currently studying Rust to write firmare for a keyboard I hope to create.
+- Currently studying Rust and C#.
 
 ![](https://komarev.com/ghpvc/?username=justinknguyen&color=blue)

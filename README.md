@@ -15,6 +15,6 @@
 ### Hi, I'm Justin
 
 - M.Eng. in Software Engineering | B.Sc. in Electrical Engineering
-- Currently studying Rust and C#.
+- Seeking new opportunities
 
 ![](https://komarev.com/ghpvc/?username=justinknguyen&color=blue)

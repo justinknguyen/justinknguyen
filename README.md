@@ -15,6 +15,6 @@
 ### Hi, I'm Justin
 
 - M.Eng. in Software Engineering | B.Sc. in Electrical Engineering
-- Seeking new opportunities
+- Excited for the future :)
 
 ![](https://komarev.com/ghpvc/?username=justinknguyen&color=blue)
